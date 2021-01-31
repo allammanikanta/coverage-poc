@@ -1,0 +1,27 @@
+.UserDetailsComp {
+    padding: 40px 0px 40px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.UserDetailsCompCenterAlign{
+    
+}
+
+.userNameAndDOB {
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+
+.userAddress {
+    display: flex;
+    padding-top: 40px;
+}
+
+.submitButton {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
